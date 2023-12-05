@@ -1,0 +1,36 @@
+h3 {
+  font-size: 53px;
+  text-align: center;
+  color: lightblue;
+}
+
+.backButton:hover {
+  border: none;
+  background-color: #caf0f8;
+  background-color: rgb(154, 207, 224);
+}
+
+.backButton {
+  width: 160px;
+  height: 40px;
+  margin: auto;
+  color: black;
+  font-size: 14px;
+  border-radius: 8px;
+  background-color: white;
+  border: 1px solid #ced4da;
+}
+a {
+  text-decoration: none;
+}
+
+.selectedService {
+  font-size: 25px;
+}
+
+.serviceDetails {
+  gap: 80px;
+  display: flex;
+  margin-top: 100px;
+  flex-direction: column;
+}

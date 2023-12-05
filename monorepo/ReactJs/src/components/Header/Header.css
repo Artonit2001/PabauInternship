@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  color: white;
+  text-align: center;
+  background-color: white;
+}
+
+p {
+  margin: 0;
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.pageNumber {
+  color: grey;
+  font-size: 16px;
+  text-align: center;
+}
